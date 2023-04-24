@@ -1,0 +1,46 @@
+{
+    "Options": {
+        "Positions": {
+            "Orchid_OasisTown_P": [
+                {
+                    "X": -21347.486328125,
+                    "Y": -7471.34619140625,
+                    "Z": 7169.10546875,
+                    "Pitch": 60832,
+                    "Yaw": -20040
+                },
+                null,
+                null
+            ],
+            "Interlude_P": [
+                {
+                    "X": 53991.3125,
+                    "Y": -1377.6046142578125,
+                    "Z": -3840.711669921875,
+                    "Pitch": 61895,
+                    "Yaw": 62772
+                },
+                null,
+                null
+            ]
+        },
+        "DamageNumbers": true,
+        "Client Teleporting": "Allow",
+        "Client Speed Permissions": false
+    },
+    "Keybinds": {
+        "Toggle Third Person": "Equals",
+        "Halve Game Speed": "LeftBracket",
+        "Double Game Speed": "RightBracket",
+        "Reset Game Speed": "None",
+        "Toggle World Freeze": "Backslash",
+        "Toggle HUD": "Semicolon",
+        "Toggle Damage Numbers": "Quote",
+        "Save Position": "Period",
+        "Restore Position": "Comma",
+        "Select Position": "Slash",
+        "Teleport Forward": "Up",
+        "Quit Without Saving": "End"
+    },
+    "AutoEnable": true
+}
